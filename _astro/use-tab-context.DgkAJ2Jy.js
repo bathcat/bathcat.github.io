@@ -1,0 +1,1 @@
+import{n as e,t}from"./react.DFZbzGJs.js";var n=e({activeTabID:`1`}),r=()=>{let{activeTabID:e}=t(n);return{activeTabID:e,setActiveTabID:e=>{n.set({activeTabID:e})}}};export{r as t};

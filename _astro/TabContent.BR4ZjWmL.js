@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime.BE1J53Vq.js";import{t}from"./use-tab-context.DgkAJ2Jy.js";var n=e(),r=({tabID:e,children:r})=>{let{activeTabID:i}=t();return(0,n.jsx)(`div`,{className:i===e?`block`:`hidden`,children:r})};export{r as TabContent};

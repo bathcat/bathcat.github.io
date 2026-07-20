@@ -1,0 +1,1 @@
+import{t as e}from"./color-scheme.D09N4aQV.js";document.addEventListener(`astro:page-load`,()=>{e()});
